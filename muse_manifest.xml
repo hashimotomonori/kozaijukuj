@@ -1,0 +1,219 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kozaijuku.com" resolutions="1x" timestamp="1535251242132">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-____.css" crc="290417647" ref="contact:application:test:index:price:introduction:about"/>
+    <file name="nomq_preview_master_a-____.css" crc="420193925" ref="contact:application:test:index:price:introduction:about"/>
+    <file name="contact.css" crc="4278306031" ref="contact"/>
+    <file name="nomq_contact.css" crc="394126794" ref="contact"/>
+    <file name="application.css" crc="243245995" ref="application"/>
+    <file name="nomq_application.css" crc="4161965656" ref="application"/>
+    <file name="test.css" crc="464460366" ref="test"/>
+    <file name="nomq_test.css" crc="4163558080" ref="test"/>
+    <file name="index.css" crc="431519186" ref="index"/>
+    <file name="nomq_index.css" crc="63545448" ref="index"/>
+    <file name="price.css" crc="330778749" ref="price"/>
+    <file name="nomq_price.css" crc="106065930" ref="price"/>
+    <file name="introduction.css" crc="382083162" ref="introduction"/>
+    <file name="nomq_introduction.css" crc="4275978839" ref="introduction"/>
+    <file name="about.css" crc="266257169" ref="about"/>
+    <file name="nomq_about.css" crc="422846647" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:introduction:price:contact:application:about:test"/>
+    <file name="museutils.js" crc="340535759" ref="index:introduction:price:contact:application:about:test"/>
+    <file name="whatinput.js" crc="86476730" ref="index:introduction:price:contact:application:about:test"/>
+    <file name="museconfig.js" crc="310584261" ref="index:introduction:price:contact:application:about:test"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:introduction:price:contact:application:about:test"/>
+    <file name="webpro.js" crc="4059564322" ref="index:introduction:price:contact:application:about:test"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:introduction:price:contact:application:about:test"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:introduction:price:contact:application:about:test"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:introduction:price:contact:application:about:test"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:introduction:price:contact:application:about:test"/>
+    <file name="require.js" crc="7928878" ref="index:introduction:price:contact:application:about:test"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u25007.php" crc="329459827" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="31klut5nbkl-crop-u3884.jpg" crc="389598442" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https___wwwpakutasocom_shared_img_thumb_pak69_penwomotunotedesu20140312616x410.jpg" crc="3829692454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:introduction:price:contact:application:about:test"/>
+    <file name="gahag-0033900459-1615x410.jpg" crc="3984247118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https___wwwpakutasocom_shared_img_thumb_pak95_sunadokei20141018123010616x410.jpg" crc="4198167126" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="twitterhe.jpg" crc="462075372" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="218268875" seo="true" ref="index:introduction:price:contact:application:about:test">
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="introduction" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="price" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="test" alt=""/>
+      <caption webpage="test" alt=""/>
+      <caption webpage="test" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="https___wwwpakutasocom_shared_img_thumb_pak69_penwomotunotedesu20140312.jpg" crc="3933469066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gahag-0033900459-1.jpg" crc="4217636121" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https___wwwpakutasocom_shared_img_thumb_pak95_sunadokei20141018123010.jpg" crc="3904376889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="okane-crop-u12581.jpg" crc="419545489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ryoukin198x39.jpg" crc="3768419289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testuo-crop-u945.jpg" crc="4183942477" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https___wwwpakutasocom_shared_img_thumb_kokubankaku_0i9a2307-crop-u745.jpg" crc="430661920" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kousi198x39.jpg" crc="119207261" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="test198x39.jpg" crc="228706363" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.jpg" crc="521355928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https___wwwpakutasocom_shared_img_thumb_pak69_penwomotunotedesu20140312930x620.jpg" crc="3841503234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https___wwwpakutasocom_shared_img_thumb_pak95_sunadokei20141018123010930x620.jpg" crc="4039134919" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="okane.jpg" crc="474026914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https___wwwpakutasocom_shared_img_thumb_kokubankaku_0i9a2307-crop-u7452.jpg" crc="430661920" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31klut5nbkl223x205.jpg" crc="3827287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testuo223x186.jpg" crc="60999520" seo="true" ref="application">
+      <caption webpage="index" alt=""/>
+      <caption webpage="application" alt=""/>
+      <caption webpage="application" alt=""/>
+    </file>
+    <file name="https___wwwpakutasocom_shared_img_thumb_pak69_penwomotunotedesu20140312-crop-u470.jpg" crc="324050475" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gahag-0033900459-1-crop-u583.jpg" crc="4282393524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https___wwwpakutasocom_shared_img_thumb_pak95_sunadokei20141018123010-crop-u603.jpg" crc="489420147" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31klut5nbkl.jpg" crc="72491634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https___wwwpakutasocom_shared_img_thumb_pak69_penwomotunotedesu20140312-crop-u4702.jpg" crc="295938962" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gahag-0033900459-1-crop-u5832.jpg" crc="4074082624" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https___wwwpakutasocom_shared_img_thumb_pak95_sunadokei20141018123010-crop-u6032.jpg" crc="3852080670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https___wwwpakutasocom_shared_img_thumb_pak69_penwomotunotedesu20140312-crop-u4703.jpg" crc="368057028" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gahag-0033900459-1-crop-u5833.jpg" crc="350110005" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https___wwwpakutasocom_shared_img_thumb_pak95_sunadokei20141018123010-crop-u6033.jpg" crc="4068597054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https___wwwpakutasocom_shared_img_thumb_kokubankaku_0i9a2307-crop-u745-crop-u745.jpg" crc="4259035595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31klut5nbkl246x205.jpg" crc="288444638" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="testuo223x186-crop-u18875.jpg" crc="256362414" seo="true" ref="application">
+      <caption webpage="application" alt=""/>
+    </file>
+    <file name="testuo223x186-crop-u188752.jpg" crc="3779718391" seo="true" ref="application">
+      <caption webpage="application" alt=""/>
+    </file>
+    <file name="testuo.jpg" crc="77780176" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="509377280" seo="true" mt="1535250860580" redirect="true"/>
+  <file name="introduction.html" crc="4218344122" seo="true" mt="1535212631336" redirect="true"/>
+  <file name="price.html" crc="4015333370" seo="true" mt="1535207622378" redirect="true"/>
+  <file name="contact.html" crc="4175924416" seo="true" mt="1535212699681" redirect="true"/>
+  <file name="application.html" crc="536695124" seo="true" mt="1535251157180" redirect="true"/>
+  <file name="about.html" crc="3871576409" seo="true" mt="1535212528028" redirect="true"/>
+  <file name="test.html" crc="3832830997" seo="true" mt="1535213205316" redirect="true"/>
+</manifest>
